@@ -29,3 +29,6 @@ O projeto seguiu um pipeline padrão de detecção de objetos:
 | **Google Colab (GPU)** | Ambiente baseado em nuvem que fornece o poder de processamento necessário para o treinamento. |
 | **Roboflow** | Plataforma utilizada para aquisição e formatação do dataset. |
 | **Python** | Linguagem de programação principal utilizada para o desenvolvimento e execução. |
+
+## Uso de IA
+Este projeto contou com auxílio de ferramentas de Inteligência Artificial para geração de trechos de código e ideias de implementação. Todo o material foi revisado, adaptado e testado manualmente antes da publicação.
